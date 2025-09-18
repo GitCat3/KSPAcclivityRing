@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSPAcclivityRing", "KSPAcclivityRing.csproj", "{BFEB7411-F891-4602-8DF9-A3087F464426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEB7411-F891-4602-8DF9-A3087F464426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEB7411-F891-4602-8DF9-A3087F464426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEB7411-F891-4602-8DF9-A3087F464426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEB7411-F891-4602-8DF9-A3087F464426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
